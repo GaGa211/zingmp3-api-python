@@ -27,7 +27,7 @@ pip install requests
 Clone repo:
 
 ```bash
-git clone [https://github.com/YOUR_USERNAME/zingmp3-api-python.git](https://github.com/GaGa211/zingmp3-api-python)
+git clone https://github.com/GaGa211/zingmp3-api-python
 cd zingmp3-api-python
 ```
 Tạo file mới 
