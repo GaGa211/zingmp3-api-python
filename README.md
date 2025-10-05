@@ -30,9 +30,9 @@ Clone repo:
 git clone [https://github.com/YOUR_USERNAME/zingmp3-api-python.git](https://github.com/GaGa211/zingmp3-api-python)
 cd zingmp3-api-python
 ```
-
-Hoặc import trong project khác:
-
+Tạo file mới 
+Ví dụ: main.py
+Rồi import thư viện và api cần thiết
 ```python
 from zmp3 import chart_home, search_song, get_song, get_stream, get_lyric
 
